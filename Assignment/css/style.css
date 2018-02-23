@@ -2,7 +2,8 @@
 /* CSS Document */
 
 body {
-	background: url(../Images/bgi3.jpg) fixed;
+	background: radial-gradient(black, magenta, white);
+	background: url(../Images/galaxy.jpeg) fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -10,6 +11,6 @@ body {
 }
 
 p {
-
+	
 	
 }
